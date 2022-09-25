@@ -2,8 +2,10 @@
 
 public class main {
     public static void main(String[] args) {
-        //자바 공부입니다.
-        //devS
+        //java
+        //dev
+        // featureTestPage
+        //feature1_a_b
         SubtractCalculator c1 = new SubtractCalculator();
         c1.setOprands(10,20);
         c1.sum();
